@@ -3,7 +3,9 @@
 ### Capstone Info ###
 
 >>School: McNeese State University
+
 >>Semester: Spring 2017
+
 >>Mentor: Dr. Vipin Menon
 
 ### Original Developer Information ###
